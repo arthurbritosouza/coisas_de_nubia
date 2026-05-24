@@ -1,0 +1,9 @@
+vendor
+node_modules
+.git
+.env
+storage/logs/*.log
+public/extracted
+public/extracted2
+public/*.zip
+docker-compose.yml
